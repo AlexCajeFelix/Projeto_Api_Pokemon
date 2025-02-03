@@ -1,0 +1,33 @@
+import java.sql.Types;
+import java.util.List;
+
+public class Pokemon {
+    private String name;
+
+  
+
+    public Pokemon() {
+    }
+
+
+    public String getName() {
+        return name;
+    }
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+
+    public Pokemon(String name) {
+        this.name = name;
+    }
+
+ 
+
+ 
+
+    
+    
+}
